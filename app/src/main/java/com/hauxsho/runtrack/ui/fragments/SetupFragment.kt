@@ -6,7 +6,6 @@ import android.widget.Toast
 import androidx.fragment.app.Fragment
 import androidx.navigation.fragment.findNavController
 import com.hauxsho.runtrack.R
-import com.hauxsho.runtrack.databinding.FragmentSetupBinding
 import kotlinx.android.synthetic.main.fragment_setup.*
 
 class SetupFragment : Fragment(R.layout.fragment_setup) {

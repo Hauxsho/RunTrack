@@ -23,7 +23,7 @@
             </intent-filter>
         </activity>
 
-        <service android:name=".Services.TrackingService"
+        <service android:name=".services.TrackingService"
             android:foregroundServiceType="location"/>
 
         <meta-data

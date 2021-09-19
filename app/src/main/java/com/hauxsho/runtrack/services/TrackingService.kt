@@ -1,4 +1,4 @@
-package com.hauxsho.runtrack.Services
+package com.hauxsho.runtrack.services
 
 import android.app.NotificationChannel
 import android.app.NotificationManager

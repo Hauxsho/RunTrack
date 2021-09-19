@@ -7,7 +7,7 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import com.google.android.gms.maps.GoogleMap
 import com.hauxsho.runtrack.R
-import com.hauxsho.runtrack.Services.TrackingService
+import com.hauxsho.runtrack.services.TrackingService
 import com.hauxsho.runtrack.other.Constant.ACTION_START_OR_RESUME_SERVICE
 import com.hauxsho.runtrack.ui.viewmodels.MainViewModel
 import dagger.hilt.android.AndroidEntryPoint

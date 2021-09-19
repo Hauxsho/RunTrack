@@ -8,8 +8,6 @@ import androidx.fragment.app.Fragment
 import androidx.fragment.app.viewModels
 import androidx.navigation.fragment.findNavController
 import com.hauxsho.runtrack.R
-import com.hauxsho.runtrack.databinding.FragmentRunBinding
-import com.hauxsho.runtrack.databinding.FragmentSetupBinding
 import com.hauxsho.runtrack.other.Constant.REQUEST_CODE_LOCATION_PERMISSION
 import com.hauxsho.runtrack.other.TrackingUtility
 import com.hauxsho.runtrack.ui.viewmodels.MainViewModel
